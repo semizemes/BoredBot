@@ -1,6 +1,6 @@
 {
   "name": "BoredBot",
-  "description": "",
+  "description": "A web app that suggests fun activities when you're bored using the Bored API",
   "scripts": {
     "start": "vite",
     "dev": "vite",
